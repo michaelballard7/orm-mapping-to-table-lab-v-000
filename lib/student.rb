@@ -33,6 +33,9 @@ class Student
 
   def save
 
+      # insert object into the db
+      # use ??? then insert attributes
+
   end
 
 end
