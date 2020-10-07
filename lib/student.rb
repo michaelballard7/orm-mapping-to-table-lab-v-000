@@ -14,8 +14,8 @@ class Student
       # set sql statement
       sql = <<=SQL 
         CREATE TABLE IF NOT EXISTS students (
-            id INTEGER primary key 
-            name TEXT 
+            id INTEGER primary key
+            name TEXT
             grade INTEGER
         )
   end
